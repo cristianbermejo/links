@@ -24,6 +24,20 @@ List of development tools and resouces.
 - Useful links:
   - [Adoptium](https://adoptium.net/): JDK binaries by the Eclipse Foundation.
   - [Baeldung](https://www.baeldung.com/): Website with lots of tutorials and guides for Java developers.
+
+## 🧰 Tools
+
+- [DBeaver](https://dbeaver.io/): Database tool.
+- [Docker](https://www.docker.com/): Container platform and engine.
+- [Git for Windows](https://gitforwindows.org/): Git CLI and GUI clients for Windows.
+  - [Fork](https://git-fork.com/): Git GUI client for Mac and Windows.
+  - [Git Extensions](http://gitextensions.github.io/): Git GUI client.
+  - [posh-git](https://github.com/dahlbyk/posh-git): PowerShell module that integrates Git into PowerShell.
+  - [Sourcetree](https://www.sourcetreeapp.com/): Git GUI client by Atlassian.
+- [Insomnia](https://insomnia.rest/): API Client.
+- [Keycloak](https://www.keycloak.org/): Authentication solution.
+- [Podman](https://podman.io/): Daemonless container engine compatible with Docker.
+- [Postman](https://www.postman.com/): API client and platform.
   
   
 ## ❔ Other

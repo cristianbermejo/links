@@ -3,43 +3,64 @@ List of development tools and resouces.
 
 ## ☕ Java
 
-- [Homepage](https://www.oracle.com/java/): Official Oracle Java website with links to documentation and downloads.
+- [Homepage](https://www.oracle.com/java/)
+- Frameworks:
+  - [Spring](https://spring.io/): Framework full of tools that extend Java's funcionalities and make coding easier.
 - Libraries:
-  - [Apache Commons](https://commons.apache.org/): Set of libraries that implement reusable utilities.
-  - [Gson](https://github.com/google/gson): Google's library for converting JSON strings to Java objects and vice versa.
-  - [H2 Database](https://www.h2database.com/html/main.html): Embedded database for Java projects.
-  - [Jackson](https://github.com/FasterXML/jackson): Set of libraries for converting data in formats like JSON, XML or YAML to Java objects and vice versa.
-  - [JUnit](https://junit.org/junit5/): Test framework.
-  - [Log4j](https://logging.apache.org/log4j/2.x/): Apache's logging framework.
-  - [Lombok](https://projectlombok.org/): Library that generates boilerplate code like getters, setters, toString methods, etc.
-  - [Mapstruct](https://mapstruct.org/): Library that generates code for converting data between Java types.
-  - [Mockito](https://site.mockito.org/): Mocking framework for unit testing.
-  - [MyBatis](https://mybatis.org/mybatis-3/): SQL Database interaction framework.
-  - [Netty-socketio](https://github.com/mrniko/netty-socketio): Socket.IO server implementation.
-  - [SLF4J](https://www.slf4j.org/): Logging framework.
-  - [Socket.IO-client Java](https://github.com/socketio/socket.io-client-java): Socket.IO Client.
-  - [Spring](https://spring.io/): Set of projects that make Java projects more powerful and easier to code and mantain.
- - Tools:
-   - [CRF](https://github.com/leibnitz27/cfr): Java decompiler.
+  - Code generators:
+    - [Lombok](https://projectlombok.org/): Code generator for common methods in Java classes.
+    - [Mapstruct](https://mapstruct.org/): Code generator for Java class mappers.
+  - Data converters:
+    - [Gson](https://github.com/google/gson): Google's library for JSON serialization and deserialization.
+    - [jackson-databind](https://github.com/FasterXML/jackson-databind): Popular JSON serialization and deserialization library.
+  - Sockets:
+    - [Netty-socketio](https://github.com/mrniko/netty-socketio): Socket.IO server implementation.
+    - [Socket.IO-client Java](https://github.com/socketio/socket.io-client-java): Socket.IO Client.
+  - Testing:
+    - [JUnit](https://junit.org/junit5/): Java test framework.
+    - [Mockito](https://site.mockito.org/): Mocking framework for unit testing.
 - Useful links:
   - [Adoptium](https://adoptium.net/): JDK binaries by the Eclipse Foundation.
   - [Baeldung](https://www.baeldung.com/): Website with lots of tutorials and guides for Java developers.
 
+## 🟦 TypeScript
+
+- [Homepage](https://www.typescriptlang.org/)
+- Frameworks:
+  - [Angular](https://angular.io/):
+    - [Angular Material](https://material.angular.io/): Material UI components for Angular projects.
+  - [React](https://reactjs.org/):
+    - [Fluent UI React](https://developer.microsoft.com/en-us/fluentui/): Fluent UI components for React projects.
+- Libraries:
+  - [Socket.IO](https://socket.io/): Standarized websocket server and client.
+
 ## 🧰 Tools
 
-- [DBeaver](https://dbeaver.io/): Database tool.
-- [Docker](https://www.docker.com/): Container platform and engine.
-- [Git for Windows](https://gitforwindows.org/): Git CLI and GUI clients for Windows.
-  - [Fork](https://git-fork.com/): Git GUI client for Mac and Windows.
-  - [Git Extensions](http://gitextensions.github.io/): Git GUI client.
+- Authentication:
+  - [Keycloak](https://www.keycloak.org/): Authentication solution.
+- Clients:
+  - [Postman](https://www.postman.com/): API client with socket support.
+  - [Insomnia](https://insomnia.rest/): API Client.
+  - [Socket IO Client Tool](https://amritb.github.io/socketio-client-tool/): Web Socket.IO client.
+- Containers:
+  - [Docker](https://www.docker.com/): Container platform and engine.
+  - [Podman](https://podman.io/): Daemonless container engine compatible with Docker.
+- Data viewers:
+  - [DBeaver](https://dbeaver.io/): Database tool.
+- IDEs:
+  - [Eclipse](https://www.eclipse.org/ide/): IDE by the Eclipse Foundation, mainly used for Java development.
+  - [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/): Java IDE by JetBrains.
+  - [PyStorm](https://www.jetbrains.com/es-es/pycharm/): Python IDE by Jetbrains.
+  - [Visual Studio Code](https://code.visualstudio.com/): Code editor by Microsoft with support for many languages via extensions.
+- Version control:
+  - [Git for Windows](https://gitforwindows.org/): Git CLI and GUI clients for Windows.
   - [posh-git](https://github.com/dahlbyk/posh-git): PowerShell module that integrates Git into PowerShell.
+  - [Git Extensions](http://gitextensions.github.io/): Git GUI client for Windows.
+  - [Fork](https://git-fork.com/): Git GUI client for Mac and Windows.
   - [Sourcetree](https://www.sourcetreeapp.com/): Git GUI client by Atlassian.
-- [Insomnia](https://insomnia.rest/): API Client.
-- [Keycloak](https://www.keycloak.org/): Authentication solution.
-- [Podman](https://podman.io/): Daemonless container engine compatible with Docker.
-- [Postman](https://www.postman.com/): API client and platform.
+- Other:
+  - [CRF](https://github.com/leibnitz27/cfr): Java decompiler.  
   
-  
-## ❔ Other
+## 👨‍🎓 Learning resources
   
 - [Learn Git Branching](https://learngitbranching.js.org/): Interactive game for learning Git with useful examples and visual representations.

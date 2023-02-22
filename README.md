@@ -13,6 +13,8 @@ List of development tools and resouces.
   - Data converters:
     - [Gson](https://github.com/google/gson): Google's library for JSON serialization and deserialization.
     - [jackson-databind](https://github.com/FasterXML/jackson-databind): Popular JSON serialization and deserialization library.
+  - Documentation:
+    - [SpringFox](http://springfox.github.io/springfox/): Specification generator for JSON APIs written with Spring.
   - Sockets:
     - [Netty-socketio](https://github.com/mrniko/netty-socketio): Socket.IO server implementation.
     - [Socket.IO-client Java](https://github.com/socketio/socket.io-client-java): Socket.IO Client.
@@ -38,6 +40,9 @@ List of development tools and resouces.
 
 - Authentication:
   - [Keycloak](https://www.keycloak.org/): Authentication solution.
+- Cache:
+  - [Apache Ignite](https://ignite.apache.org/): In-memory distributed database.
+  - [Redis](https://ignite.apache.org/): In-memory data store, sometimes used as cache.
 - Clients:
   - [Postman](https://www.postman.com/): API client with socket support.
   - [Insomnia](https://insomnia.rest/): API Client.
@@ -59,7 +64,8 @@ List of development tools and resouces.
   - [Fork](https://git-fork.com/): Git GUI client for Mac and Windows.
   - [Sourcetree](https://www.sourcetreeapp.com/): Git GUI client by Atlassian.
 - Other:
-  - [CRF](https://github.com/leibnitz27/cfr): Java decompiler.  
+  - [CRF](https://github.com/leibnitz27/cfr): Java decompiler.
+  - [httpbin.org](https://httpbin.org/): API for testing web clients.
   
 ## 👨‍🎓 Learning resources
   

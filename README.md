@@ -68,5 +68,8 @@ List of development tools and resouces.
   - [httpbin.org](https://httpbin.org/): API for testing web clients.
   
 ## 👨‍🎓 Learning resources
-  
-- [Learn Git Branching](https://learngitbranching.js.org/): Interactive game for learning Git with useful examples and visual representations.
+
+- Interactive learning tools:
+  - [Learn Git Branching](https://learngitbranching.js.org/): Interactive game for learning Git with useful examples and visual representations.
+- Software design patterns:
+  - [Facade pattern](https://en.wikipedia.org/wiki/Facade_pattern): A design pattern where a front-facing object masks the underlying code of a more complex object.
